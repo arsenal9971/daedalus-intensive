@@ -14,7 +14,7 @@ pip3 install numpy
 pip3 install Pillow
 pip3 install scipy
 pip3 install matplotlib
-pip3 install skimage
+pip3 install scikit-image
 pip3 install jupyter
 ```
 
